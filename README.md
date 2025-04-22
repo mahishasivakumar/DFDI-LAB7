@@ -94,6 +94,7 @@ Use John the Ripper to crack the hashes
 
 ### Step 8: Start Cracking the Password
   •	Run:
+  
   ![Screenshot 2025-04-22 183552](https://github.com/user-attachments/assets/f1afb549-b56e-498d-8ff3-deb29854ba22)
 
 
