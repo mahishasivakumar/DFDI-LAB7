@@ -40,7 +40,7 @@ Use John the Ripper to crack the hashes
 
 ### Step 2: Create a Password-Protected ZIP File
 
-  •	Right-click on praveen.txt → Create Archive.
+  •	Right-click on mahisha.txt → Create Archive.
   
   ![Screenshot 2025-04-22 183144](https://github.com/user-attachments/assets/729f6455-927c-4680-8002-a02824bee4d9)
 
@@ -52,7 +52,7 @@ Use John the Ripper to crack the hashes
   ![Screenshot 2025-04-22 183230](https://github.com/user-attachments/assets/682b5157-9460-47ab-a03f-5963557d4ae8)
 
 
-  •	A file named praveen.txt.zip will appear.
+  •	A file named mahisha.txt.zip will appear.
 
 ### Step 3: Open John the Ripper Terminal in Kali Linux
 
@@ -79,7 +79,7 @@ Use John the Ripper to crack the hashes
   ![Screenshot 2025-04-22 183350](https://github.com/user-attachments/assets/e2501125-82fb-4170-9987-a84261de9fa0)
 
 
-  •	You should see praveen.txt.zip listed.
+  •	You should see mahisha.txt.zip listed.
 
 ### Step 6: Generate Hash Using zip2john
 
