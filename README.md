@@ -26,13 +26,15 @@ Use John the Ripper to crack the hashes
 
   •	Right-click on the Desktop and choose Create Document → Empty Document.
   
-  •	Name the file: praveen.txt.
+  •	Name the file: mahisha.txt.
 
-  ![image](https://github.com/user-attachments/assets/936d80e5-b2b5-4e26-a0e2-11e1f359cf0d)
+  ![Screenshot 2025-04-22 183028](https://github.com/user-attachments/assets/ad61c866-4f83-4770-bb32-e743d93c4a92)
+
 
   •	Open it and type:
 
-  ![image](https://github.com/user-attachments/assets/c471f666-1632-4dee-81d0-b43d97d8e6f7)
+  ![Screenshot 2025-04-22 183101](https://github.com/user-attachments/assets/c946133f-3bdc-4c09-ae5d-57b128904e8a)
+
 
   •	Save and close the file.
 
@@ -40,13 +42,15 @@ Use John the Ripper to crack the hashes
 
   •	Right-click on praveen.txt → Create Archive.
   
-  ![image](https://github.com/user-attachments/assets/401099f6-f9b0-47af-8065-8daf3bde16d4)
+  ![Screenshot 2025-04-22 183144](https://github.com/user-attachments/assets/729f6455-927c-4680-8002-a02824bee4d9)
+
 
   •	Select .zip format.
   
   •	Click Other Options, set a password (e.g., 1234), then click Create.
 
-  ![image](https://github.com/user-attachments/assets/c2621395-c93e-4083-9bdd-333a3f0a95c8)
+  ![Screenshot 2025-04-22 183230](https://github.com/user-attachments/assets/682b5157-9460-47ab-a03f-5963557d4ae8)
+
 
   •	A file named praveen.txt.zip will appear.
 
@@ -56,7 +60,8 @@ Use John the Ripper to crack the hashes
   
   •	Search for “john” and click it — this opens the terminal with John the Ripper installed.
 
-  ![image](https://github.com/user-attachments/assets/da33af62-448c-4d21-a76e-832fc6f11ede)
+  ![Screenshot 2025-04-22 183303](https://github.com/user-attachments/assets/121b6a0c-4b81-431c-92ed-d47cbb898636)
+
 
   •	Or simply open a Terminal from the dock or desktop.
 
@@ -64,28 +69,33 @@ Use John the Ripper to crack the hashes
 
   •	In the terminal, switch to the Desktop where the ZIP file is located:
   
-  ![image](https://github.com/user-attachments/assets/8f16dd47-a74a-4ace-93b4-9646a492d6aa)
+  ![Screenshot 2025-04-22 183331](https://github.com/user-attachments/assets/dc5374d4-eb43-4713-83f1-c571cfb0b3cf)
+
 
 ### Step 5: Confirm the ZIP File is Present
 
   •	Run: “ls” command
   
-  ![image](https://github.com/user-attachments/assets/993d8812-b369-48b2-b5b4-87ab6244c288)
+  ![Screenshot 2025-04-22 183350](https://github.com/user-attachments/assets/e2501125-82fb-4170-9987-a84261de9fa0)
+
 
   •	You should see praveen.txt.zip listed.
 
 ### Step 6: Generate Hash Using zip2john
 
   •	Execute:
-  ![image](https://github.com/user-attachments/assets/586d8286-0586-4d08-b4b8-a99675b5e94a)
+  ![Screenshot 2025-04-22 183429](https://github.com/user-attachments/assets/b2fb4d69-5070-4d1b-bc0b-ec8f247ce229)
+
 
 ### Step 7: Verify the Hash File (Optional)
   •	Open hash.txt to ensure it contains the hash line.
-  ![image](https://github.com/user-attachments/assets/e0af1389-4671-471e-b159-84a1c8e8ed0e)
+  ![Screenshot 2025-04-22 183451](https://github.com/user-attachments/assets/4bf6c35c-66cf-4d36-a489-12c6830ce7f5)
+
 
 ### Step 8: Start Cracking the Password
   •	Run:
-  ![image](https://github.com/user-attachments/assets/587ad087-542e-4087-a14c-d7c71cca9cc0)
+  ![Screenshot 2025-04-22 183552](https://github.com/user-attachments/assets/f1afb549-b56e-498d-8ff3-deb29854ba22)
+
 
 ## OUTPUT:View the Cracked Password
   • After cracking is complete, reveal the password using:
