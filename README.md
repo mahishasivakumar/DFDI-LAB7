@@ -99,7 +99,8 @@ Use John the Ripper to crack the hashes
 
 ## OUTPUT:View the Cracked Password
   • After cracking is complete, reveal the password using:
-  ![image](https://github.com/user-attachments/assets/4816226e-22cf-47b7-89bc-92f68082284f)
+  ![image](https://github.com/user-attachments/assets/d93fe2be-f483-4326-beca-31c7b6affb85)
+
 
   •	The terminal will display the filename and its cracked password.
 
