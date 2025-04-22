@@ -84,11 +84,13 @@ Use John the Ripper to crack the hashes
 ### Step 6: Generate Hash Using zip2john
 
   •	Execute:
+  
   ![Screenshot 2025-04-22 183429](https://github.com/user-attachments/assets/b2fb4d69-5070-4d1b-bc0b-ec8f247ce229)
 
 
 ### Step 7: Verify the Hash File (Optional)
   •	Open hash.txt to ensure it contains the hash line.
+  
   ![Screenshot 2025-04-22 183451](https://github.com/user-attachments/assets/4bf6c35c-66cf-4d36-a489-12c6830ce7f5)
 
 
@@ -100,6 +102,7 @@ Use John the Ripper to crack the hashes
 
 ## OUTPUT:View the Cracked Password
   • After cracking is complete, reveal the password using:
+  
   ![image](https://github.com/user-attachments/assets/d93fe2be-f483-4326-beca-31c7b6affb85)
 
 
